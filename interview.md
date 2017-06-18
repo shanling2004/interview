@@ -50,3 +50,9 @@ swap:          255            0         255
 http://www.cnblogs.com/pengdonglin137/p/3315124.html
 
 20 NoSQL基石之一CAP原则 是什么含义？什么样的构架基本满足CP 什么样的构架基本满足AP?
+21 Wildcard Match Algorith
+* Recursive
+* DP
+* Greedy
+
+https://longwayjade.wordpress.com/2015/04/26/leetcode-recursion-dp-greedy-wildcard-matching/
