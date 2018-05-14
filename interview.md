@@ -56,3 +56,8 @@ http://www.cnblogs.com/pengdonglin137/p/3315124.html
 * Greedy
 
 https://longwayjade.wordpress.com/2015/04/26/leetcode-recursion-dp-greedy-wildcard-matching/
+
+
+21 [MapReduce] 计算 大数据量的均方差 hyperLogLog
+
+22 streaming 多流join
